@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/Dreamacro/clash-dashboard",
     "scripts": {
-        "start": "vite",
+        "dev": "vite",
         "build": "vite build",
         "lint": "pnpm lint:ts",
         "lint:ts": "eslint --ext=jsx,ts,tsx --fix src",
